@@ -122,16 +122,16 @@ Test dataset len : 488
 ---
 ## 시스템 구성 및 기술 스택
 
-### 🖥️ 개발 환경
+#### 🖥️ 개발 환경
 - **OS**: Windows
 - **IDE/툴**: Colab Pro, PyCharm, Eclipse, Scene Builder, MySQL Workbench
 - **DB**: MySQL
 
-### 💻 개발 언어
+#### 💻 개발 언어
 - Python
 - Java
 
-### 🔍 기술 스택
+#### 🔍 기술 스택
 - TensorFlow, PyTorch
 - OpenAI Whisper-medium
 - GPT-4 Turbo
