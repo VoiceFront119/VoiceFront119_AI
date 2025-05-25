@@ -19,6 +19,19 @@
 - 위치, 사고 유형, 환자 상태 등 **핵심 정보 추출**
 <br><br><br>
 ---
+## 🗂️ 데이터
+- 구음장애 음성인식 데이터
+
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=608
+
+- 위급상황 음성/음향 고도화 - 119 지능형 신고접수 음성 인식 데이터
+
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71768
+
+
+<br><br><br>
+
+---
 ## 📈 성능
 
 ### 📝 구음 장애인 고려 ASR 시스템 성능 분석
